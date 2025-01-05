@@ -23,15 +23,15 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348081626740'];
-global.ownMain = '2348081626740';
+global.owner = ['2348056003780'];
+global.ownMain = '2348056003780';
 global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
 global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.packname = 'HITMAN 🚹'; // Change if needed
-global.url = 'https://chat.whatsapp.com/DxE7cX6XqYy1gplifmQYdO'; // Do not change
+global.url = 'https://chat.whatsapp.com/BdYycYZb9WrIpc27L1QDgy'; // Do not change
 
 //===========================//
 
@@ -80,8 +80,8 @@ global.decor = {
 global.mess = {
   ingroup: 'This feature can only be used in groups.',
   admin: 'This feature is specifically for group admins🖕.',
-  owner: 'You are not the owner🫵😡.',
-  premium: 'You are not a premium user.',
+  owner: 'You are not the owner idiot🫵😡.',
+  premium: 'You are not a premium user big fool.',
   seller: 'This feature can only be used by resellers and the owner.',
   usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
   wait: '*processing♻️ chillax....♻️*',
